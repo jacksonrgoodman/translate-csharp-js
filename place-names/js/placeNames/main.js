@@ -5,8 +5,8 @@ for (let name of names) {
     console.log(`You can visit ${name}.`);
 }
 
-let theNames = names.filter(name => name.includes("The"))
+let allNames = names.filter(name => name.includes("The"))
 
-for (let name of theNames) {
+for (let name of allNames) {
     console.log(`There's also ${name}.`);
 }
