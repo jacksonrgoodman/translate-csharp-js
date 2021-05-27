@@ -26,7 +26,7 @@ const Enemies = [
         FirstName: "Betty",
         LastName: "Rudelady",
         Offenses: [
-            "Phone calls in the theater",
+            "Phone calls in the movies",
             "Phone calls on the bus",
             "Phone calls in line at the grocery store",
             "Poor conversationalist"
