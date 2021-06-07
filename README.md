@@ -1,5 +1,24 @@
-# From C# to JavaScript and Back
 
+[![C#](https://img.shields.io/badge/c%23-darkgreen?style=for-the-badge&logo=c-sharp&logoColor=white")](#)
+[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
+# From C# to JavaScript and Back
+A  _Project_ for [NSS Cohort-47](https://nashvillesoftwareschool.com/)  
+## Installation
+1. git clone this repository  
+
+## Usage
+1. `cd` into directory
+2. Enter `dotnet run` in root of project
+3. Test features.  
+
+
+## Contributing
+[Jackson Goodman](https://github.com/jacksonrgoodman)  
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Project Outline
 This repository contains a collection of C# and JavaScript programs. Each program creates some data, performs some logic and prints results to the console.
 
 C# programs are executed in the terminal using the `dotnet run` command. JavaScript programs are served with a web server _(e.g. `http-server` or `serve`)_ and executed in the browser.
@@ -45,4 +64,3 @@ dotnet new console -o <New Project Name>
 ## Resources
 
 [C# vs JavaScript Cheatsheet](./CSHARP_JAVASCRIPT_COMPARISON.md)
-# translate-csharp-js
